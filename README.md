@@ -98,8 +98,8 @@ Connection settings:
 
 ```
 JDBC URL: jdbc:h2:mem:testdb
-Username: sa
-Password:
+Username: root
+Password: Password
 ```
 
 ---
